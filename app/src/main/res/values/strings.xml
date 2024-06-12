@@ -3,14 +3,14 @@
     <string name="planet_image">Imagen del planeta</string>
     <string name="back_button">Regresar</string>
 
-    <string name="mercurio_info">Mercurio es el planeta más pequeño del sistema solar...</string>
-    <string name="venus_info">Venus es el segundo planeta desde el sol...</string>
-    <string name="tierra_info">La Tierra es el tercer planeta desde el sol...</string>
-    <string name="marte_info">Marte es el cuarto planeta desde el sol...</string>
-    <string name="jupiter_info">Júpiter es el quinto planeta desde el sol...</string>
-    <string name="saturno_info">Saturno es el sexto planeta desde el sol...</string>
-    <string name="urano_info">Urano es el séptimo planeta desde el sol...</string>
-    <string name="neptuno_info">Neptuno es el octavo planeta desde el sol...</string>
+    <string name="mercurio_info">Mercurio es el planeta más cercano al Sol en nuestro sistema solar y el más pequeño. Tiene una superficie rocosa y está cubierto de cráteres debido a impactos de meteoritos. Con temperaturas extremas que oscilan entre -173°C y 427°C...</string>
+    <string name="venus_info">Venus es el segundo planeta del sistema solar y se le conoce como "el planeta hermano de la Tierra" debido a su tamaño similar. Sin embargo, su atmósfera densa compuesta principalmente de dióxido de carbono crea un efecto invernadero extremo, lo que lo convierte en el planeta más caliente, con temperaturas superficiales de hasta 465°C. ...</string>
+    <string name="tierra_info">La Tierra es el tercer planeta del sistema solar y el único conocido por albergar vida. Tiene una atmósfera única, compuesta principalmente de nitrógeno y oxígeno, que protege la vida de la radiación dañina del Sol y regula la temperatura. Su superficie está cubierta en su mayoría por agua, lo que le otorga su característico color azul desde el espacio....</string>
+    <string name="marte_info">Marte, el cuarto planeta del sistema solar, es conocido como "el planeta rojo" debido a su color distintivo. Tiene una atmósfera delgada compuesta principalmente de dióxido de carbono y su superficie está marcada por cráteres, volcanes extintos y grandes llanuras. Marte tiene dos pequeñas lunas, Fobos y Deimos. ...</string>
+    <string name="jupiter_info">Júpiter es el quinto planeta del sistema solar y el más grande. Conocido como "el gigante gaseoso", está compuesto principalmente de hidrógeno y helio. Tiene una atmósfera turbulenta con bandas de nubes y una gran mancha roja, una tormenta que ha durado siglos. Júpiter tiene al menos 79 lunas conocidas, incluyendo las cuatro lunas galileanas: Io, Europa, Ganímedes y Calisto. Su campo magnético es el más poderoso en el sistema solar....</string>
+    <string name="saturno_info">Saturno es el sexto planeta del sistema solar y es conocido por sus impresionantes anillos compuestos principalmente de partículas de hielo y roca. Es un gigante gaseoso, compuesto principalmente de hidrógeno y helio, con una densa atmósfera con bandas de nubes y una característica mancha hexagonal en su polo norte. ...</string>
+    <string name="urano_info">Urano es el séptimo planeta del sistema solar y es único debido a su inclinación axial extrema, lo que hace que gire de lado. Es un gigante gaseoso compuesto principalmente de hidrógeno y helio, pero también contiene agua, amoníaco y metano en su atmósfera....</string>
+    <string name="neptuno_info">Neptuno es el octavo planeta del sistema solar, un gigante gaseoso similar a Urano. Su atmósfera está compuesta principalmente de hidrógeno, helio y metano, lo que le otorga su característico color azul. Tiene una gran mancha oscura llamada la Gran Mancha Oscura y vientos extremadamente veloces. Neptuno tiene 14 lunas conocidas...</string>
 
     <string-array name="planet_names">
         <item>Mercurio</item>

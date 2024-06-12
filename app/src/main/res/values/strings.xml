@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PlanetasApp</string>
+    <string name="planet_image">Imagen del planeta</string>
+    <string name="back_button">Regresar</string>
+
+    <string name="mercurio_info">Mercurio es el planeta más pequeño del sistema solar...</string>
+    <string name="venus_info">Venus es el segundo planeta desde el sol...</string>
+    <string name="tierra_info">La Tierra es el tercer planeta desde el sol...</string>
+    <string name="marte_info">Marte es el cuarto planeta desde el sol...</string>
+    <string name="jupiter_info">Júpiter es el quinto planeta desde el sol...</string>
+    <string name="saturno_info">Saturno es el sexto planeta desde el sol...</string>
+    <string name="urano_info">Urano es el séptimo planeta desde el sol...</string>
+    <string name="neptuno_info">Neptuno es el octavo planeta desde el sol...</string>
+
+    <string-array name="planet_names">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+</resources>

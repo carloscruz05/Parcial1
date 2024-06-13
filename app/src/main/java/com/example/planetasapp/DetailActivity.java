@@ -14,7 +14,7 @@ public class DetailActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
 
-        ImageView planetImage = findViewById(R.id.planet_image);
+        ImageView planetImage = findViewById(R.id.planet_image1);
         TextView planetName = findViewById(R.id.planet_name);
         TextView planetInfo = findViewById(R.id.planet_info);
         ImageView planetImage1 = findViewById(R.id.planet_image1);
@@ -27,17 +27,17 @@ public class DetailActivity extends AppCompatActivity {
         planetName.setText(name);
         planetImage.setImageResource(image);
         planetInfo.setText(getPlanetInfo(name));
-        planetImage1.setImageResource(image);  // You should use different images here
-        planetImage2.setImageResource(image);  // You should use different images here
+        planetImage1.setImageResource(image);
+        planetImage2.setImageResource(image);
 
-        // Set up the back button to start the MainActivity and return to the previous one
+
         backButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(DetailActivity.this, MainActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
                 startActivity(intent);
-                finish(); // This will close the current activity
+                finish();
             }
         });
     }
